@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">NewProject1</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="User_Name">username</string>
+    <string name="username">username</string>
+    <string name="submit">submit</string>
+    <string name="female">female</string>
+    <string name="male">male</string>
+    <string name="gender">gender</string>
+    <string name="phoneNumber">phonenumber</string>
+    <string name="email">email</string>
+    <string name="Name">name</string>
+    <string name="name">name</string>
+    <string name="welcome_user">welcome</string>
+    <string name="Email">Email</string>
+    <string name="PhoneNumber">Phone Number</string>
+    <string name="Gender">Gender</string>
+    <string name="Skip">Skip</string>
+    <string name="ThisisyourProfile">This is your First profile.</string>
+    <string name="CongThisisyourProfile">Congratulations!!! this is your first Profile Page</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Thisisskip">This is Demo Page, you have no Registration</string>
+    <string name="ret_login">Registered? Login</string>
+    <string name="Profile">HomePage</string>
+</resources>
